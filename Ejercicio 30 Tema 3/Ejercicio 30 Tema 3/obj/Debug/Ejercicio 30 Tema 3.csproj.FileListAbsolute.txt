@@ -1,0 +1,11 @@
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\bin\Debug\Ejercicio 30 Tema 3.exe.config
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\bin\Debug\Ejercicio 30 Tema 3.exe
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\bin\Debug\Ejercicio 30 Tema 3.pdb
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.csproj.AssemblyReference.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio_30_Tema_3.Form1.resources
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio_30_Tema_3.Properties.Resources.resources
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.csproj.GenerateResource.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.csproj.CoreCompileInputs.cache
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.exe
+C:\Users\mbroc\OneDrive\Documentos\IES MARE NOSTRUM\PRIMER CURSO\DESARROLLO\TEMA 3\EJERCICIOS\Ejercicio 30 Tema 3\Ejercicio 30 Tema 3\obj\Debug\Ejercicio 30 Tema 3.pdb
