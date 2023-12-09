@@ -23,15 +23,15 @@ namespace Ejercicio_30_Tema_3
             string nombre = "";
             string pass = "";
 
-            int i = 1;
+            int i = 3;
             while (i <= 5 && !(nombre == "root" && pass == "1234"))
             {
                 nombre = Interaction.InputBox("Introduzca nombre:", "Ejercicio 30");
                 pass = Interaction.InputBox("Introduzca contraseña:", "Ejercicio 30");
 
-                i++;
+                // i++;
             }
-            if (nombre == "root" && pass == "1234")
+            if (nombre == "root" && pass == "123")
             {
                 MessageBox.Show("Bienvenido al sistema");
             }
