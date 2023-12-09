@@ -20,18 +20,18 @@ namespace Ejercicio_30_Tema_3
 
         private void introducirBtn_Click(object sender, EventArgs e)
         {
-            string nombre = "";
-            string pass = "";
+            string nombreRMB2324 = "";
+            string passRMB2324 = "";
 
             int i = 3;
-            while (i <= 5 && !(nombre == "root" && pass == "1234"))
+            while (i <= 5 && !(nombreRMB2324 == "root" && passRMB2324 == "1234"))
             {
-                nombre = Interaction.InputBox("Introduzca nombre:", "Ejercicio 30");
-                pass = Interaction.InputBox("Introduzca contraseña:", "Ejercicio 30");
+                nombreRMB2324 = Interaction.InputBox("Introduzca nombre:", "Ejercicio 30");
+                passRMB2324 = Interaction.InputBox("Introduzca contraseña:", "Ejercicio 30");
 
                 // i++;
             }
-            if (nombre == "root" && pass == "123")
+            if (nombreRMB2324 == "root" && passRMB2324 == "123")
             {
                 MessageBox.Show("Bienvenido al sistema");
             }
